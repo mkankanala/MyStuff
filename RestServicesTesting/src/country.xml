@@ -1,0 +1,28 @@
+<country country="Andorra" isoCode="AD">
+    <networks>
+        <network name="Mobiland" isMNO="true" ranking="10">
+            <codes>
+                <code mcc="213" mnc="03" />
+                <test>myval</test>
+            </codes>
+            <settings>
+                <setting alternativeName="Mobiland AD" ref="s1" name="IAP" id="2266" />
+                <setting alternativeName="Mobiland MMS AD" ref="s2" name="MMS" id="2265" />
+            </settings>
+        </network>
+    </networks>
+    <settings>
+        <setting id="s2" type="mmssetting">
+            <parameter name="mms-gprs-access-point-name" value="MMS" />
+            <parameter name="mms-gprs-name" value="MMS" />
+            <parameter name="mms-gprs-proxy" value="192.168.021.050" />
+            <parameter name="mms-gprs-proxy-port" value="9201" />
+            <parameter name="mms-url" value="http://mms.ad/mmsc" />
+        </setting>
+        <setting id="s1" type="iapsetting">
+            <parameter name="iap-gprs-access-point-name" value="internet" />
+            <parameter name="iap-gprs-name" value="Internet" />
+            <parameter name="iap-gprs-url" value="http://google.com" />
+        </setting>
+    </settings>
+</country>

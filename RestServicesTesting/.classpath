@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/softwares/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/jersey-client.jar" sourcepath="C:/softwares/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/com.sun.jersey.jersey-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/selenium_kars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/log4j-api-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/log4j-core-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/org.apache.oltu.oauth2.client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/axis.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/jaxrpc-api.jar"/>
+	<classpathentry kind="lib" path="C:/softwares/commons-discovery-0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

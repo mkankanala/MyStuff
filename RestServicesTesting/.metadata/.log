@@ -1,0 +1,13 @@
+!SESSION 2016-06-01 11:50:54.839 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\X_Drive\projects\RestServicesTesting -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2016-06-01 11:51:24.049
+!MESSAGE Conflicting handlers for org.eclipse.jdt.debug.ui.localJavaShortcut.run: {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@3b6b9981} vs {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@2eb6e166}
+
+!ENTRY org.eclipse.ui 4 4 2016-06-01 11:51:24.049
+!MESSAGE Conflicting handlers for org.eclipse.jdt.debug.ui.localJavaShortcut.debug: {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@70c6860} vs {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@7ef6a063}
